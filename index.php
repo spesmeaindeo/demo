@@ -14,7 +14,8 @@
         <?php  
 
         $greeting="Hello";
-        echo "Hello, " . "Everybody";
+
+        echo "$greeting Everybody!"
         ?>
 
     </h1>
